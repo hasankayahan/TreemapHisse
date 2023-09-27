@@ -1,5 +1,5 @@
 pandas
 requests
 offline
-import plotly.express
+plotly.express
 plotly==5.9.0
