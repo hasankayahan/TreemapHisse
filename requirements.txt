@@ -1,5 +1,4 @@
 pandas
 requests
-offline
 plotly.express
 plotly==5.9.0
