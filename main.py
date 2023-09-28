@@ -49,4 +49,4 @@ fig.update_traces(
 fig.data[0].texttemplate = "<b>%{label}</b><br>%{customdata[0]} %"
 
 # Grafiği Kaydet
-offline.plot(fig)
+offline.plot(fig, filename="grafikler/grafik.html")
